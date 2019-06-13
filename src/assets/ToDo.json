@@ -1,0 +1,38 @@
+[
+	{
+        "title": "Accept Assignment 6 from Git",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 1,
+        "date": "10-27-2018"
+    },
+    {
+        "title": "Understand Assignment 6",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 2,
+        "date": "10-24-2018"
+    },
+    {
+        "title": "Create new Angular App",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 3,
+        "date": "10-24-2018"
+    },
+    {
+        "title": "Add Components and Services",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 4,
+        "date": "10-25-2018"
+    },
+    {
+        "title": "Develop and Build the Application",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 5,
+        "date": "10-26-2018"
+    },
+    {
+        "title": "Push to Git Hub",
+        "author": "Nicholas C. Zakas",
+        "toDoItem": 6,
+        "date": "10-23-2018"
+    }
+]

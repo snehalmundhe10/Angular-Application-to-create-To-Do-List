@@ -1,0 +1,13 @@
+<div class="main">
+  <h1>To Do Items List</h1><h4>-Ripan Halder and Snehal Mundhe</h4>
+  <div class="addItem">
+    <input [(ngModel)] = "newItem" placeholder="Add Item" class="addText">
+    <button (click)="pushItem()">Add</button>
+    <ul>
+      <li *ngFor="let i of items; let ind = index">
+        {{i}}
+        <span (click)="removeItem(ind)">x</span>
+      </li>
+    </ul>
+  </div>
+</div>
