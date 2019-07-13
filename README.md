@@ -34,4 +34,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 ## Snapshots of the application
 ![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img1.PNG "img1")
+![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img2.PNG "img2")
 
