@@ -33,8 +33,15 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Snapshots of the application
+1. Create To do list
+
 ![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img1.PNG "img1")
+
+2. Read JSON and display to-do list
+
 ![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img2.PNG "img2")
+
+
 ![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img3.PNG "img3")
 
 ## Contributors
