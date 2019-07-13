@@ -11,17 +11,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 5. It has 2 functionalities - i: To Do App. ii: Read JSON and display ToDO.
 6. You can add todos, remove todos in both the sections.
 
-## Steps to clone this Assignment
-
-Open Git Bash.
-
-Create a new Folder using command: mkdir WebDesign6
-
-Change directory to the newly created directory using command: cd WebDesignAssignment6
-
-Clone the repository on your local machine by using following command.
-https://github.com/neu-mis-info6150-fall-2018/assignment-6-angular-the-scriptors.git
-
 
 ## Development server
 
@@ -42,4 +31,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Snapshots of the application
+![alt text](https://github.com/snehalmundhe10/Angular-Application-to-create-To-Do-List/blob/master/images/img1.PNG "img1")
 
